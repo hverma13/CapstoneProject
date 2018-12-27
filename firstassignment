@@ -1,0 +1,2 @@
+git remote add origin http://localhost:8888/notebooks/first_assign.ipynb
+git push -u origin master
